@@ -42,7 +42,7 @@ namespace TailSpin.SpaceGame.Web.Controllers
 
                 GameModes = new List<string>()
                 {
-                    "Solo",
+                    "Solo123",
                     "Duo",
                     "Trio"
                 },
